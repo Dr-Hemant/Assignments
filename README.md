@@ -24,7 +24,12 @@ This Python program prompts the user for two numbers and then performs the follo
 - **Multiplication**
 - **Division**
 
-The results of each operation are displayed on the screen.
+The program will display the results of the operation.
+
+## Task 2: Create a Personalized Greeting
+
+### Description
+This Python program takes the user's first name and last name as input, concatenates them into a full name, and displays a personalized greeting.
 
 ### Files
 - `A1_Task1.py`: Contains the code for performing the mathematical operations.
