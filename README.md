@@ -1,6 +1,6 @@
 # Assignment 1: Basic Python Concepts
 
-This repository contains the solutions for **Assignment 1** in the [Course Name] course, focusing on **Basic Python Concepts**. The assignment includes two tasks that demonstrate basic Python programming skills such as handling user input, performing arithmetic operations, and string concatenation.
+This repository contains the solutions for **Assignment 1** of Python course, focusing on **Basic Python Concepts**. The assignment includes two tasks that demonstrate basic Python programming skills such as handling user input, performing arithmetic operations, and string concatenation.
 
 ## Table of Contents
 1. [Overview](#overview)
